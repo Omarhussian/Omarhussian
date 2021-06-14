@@ -12,4 +12,4 @@ I'm Omar Hussain , a 23-year old Front-End Developer who does web development, R
 
 
 
-![Omar's github stats](https://github-readme-stats.vercel.app/api?username=Omarhussian&show_icons=true&theme=dark)
+
