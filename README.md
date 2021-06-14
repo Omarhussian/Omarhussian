@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Omarhussian/Omarhussian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I'm [Omar!]👋
+I'm Omar Hussain , a 23-year old Front-End Developer who does web development, ReactJs development. Passionate to contribute open-source projects and make cool products.<br>
+## 📫 How to reach me: 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/omar-hussain-94608713a/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Omarhussian) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/Alhussa86398657) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/omar.hossien.16/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🌱 I’m currently learning ReactJS
+- 😄 Pronouns: He/His/Him
+
+
+
+![Omar's github stats](https://github-readme-stats.vercel.app/api?username=Omarhussian&show_icons=true&theme=dark)
