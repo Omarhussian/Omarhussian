@@ -7,8 +7,6 @@ I'm Omar Hussain , a 24-year old Front-End Developer who does web development, R
 
 
 
-- 🌱 I’m currently learning ReactJS
-- 😄 Pronouns: He/His/Him
 
 
 
