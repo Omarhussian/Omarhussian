@@ -6,7 +6,6 @@
 
 🌟 Let's connect and collaborate:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/omar-hussain-94608713a/)
-[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/Omarhussian)
 [![Twitter](http://i.imgur.com/wWzX9uB.png)](https://twitter.com/alhussain2323)
 [![Facebook](http://i.imgur.com/fep1WsG.png)](https://www.facebook.com/omar.hossien.16/)
 
