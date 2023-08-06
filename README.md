@@ -4,7 +4,7 @@
 
 Senior Front-End Developer | React Enthusiast | Innovator
 
-![Profile Banner](https://i.imgur.com/CJBwuBG.jpg)
+![Profile Banner](https://media.giphy.com/media/zHO316FmyqmZi/giphy.gif)
 
 </div>
 
@@ -34,3 +34,4 @@ If you're looking for a dedicated developer to elevate your project to new heigh
 
 _"The only way to do great work is to love what you do."_ - Steve Jobs
 
+</div>
