@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Omar Hussain! 🚀
+# 👋 Hi there, I'm Omar Hussain!
 
 Senior Front-End Developer | React Enthusiast | Innovator
 
