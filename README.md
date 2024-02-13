@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Omar Hussain!
 
-Senior Front-End Developer | React Enthusiast | Innovator
+Senior Front-End Developer | React Enthusiast 
 
 ![Profile Banner](https://media.giphy.com/media/zHO316FmyqmZi/giphy.gif)
 
@@ -19,6 +19,7 @@ As an advocate for innovation, I consistently seek out new technologies and tren
 ## 💡 Open Source Contributor
 
 I strongly believe in giving back to the community, and I actively contribute to open-source projects. Collaborating with like-minded developers has not only honed my skills but also allowed me to learn from the best.
+[![GitHub contributors](https://img.shields.io/github/contributors/YourUsername/YourRepositoryName)](https://github.com/YourUsername/YourRepositoryName/graphs/contributors)
 
 ## 🔍 Let's Connect and Collaborate
 
