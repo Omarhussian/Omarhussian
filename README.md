@@ -25,8 +25,7 @@ I strongly believe in giving back to the community, and I actively contribute to
 Let's join forces and bring your ideas to life! Connect with me on these platforms:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omar-hussain-94608713a/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/alhussain2323)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/omar.hossien.16/)
+
 
 ## 😊 Let's Create Something Extraordinary
 
