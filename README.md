@@ -1,33 +1,19 @@
 # ⚡ Omar Hussain (aka razz)
 ### Senior Front-End Architect | Specializing in Fintech & AI Solutions
 
-Building high-performance, secure, and scalable digital products for global brands.
+I skip the corporate fluff. For 7+ years, I’ve rescued messy codebases, architected high-performance Next.js apps, and integrated complex 3D experiences (Three.js) for enterprise banks, airlines, and tech startups.
 
----
+What you get:
 
-### 🚀 At a Glance
-- 🏦 **Fintech Expert:** Built secure banking flows for **NBE** and **FabMisr**.
-- 🤖 **AI Dashboards:** Architected real-time intelligence tools (OSINT) and AI-integrated UI.
-- 🚗 **Travel & Mobility:** Scaled booking engines for **Hertz** and **Aegean Airlines**.
-- 📱 **Mobile Specialist:** Expert in high-performance **React Native** applications.
+Zero-BS Architecture: React, Next.js, TypeScript. No over-engineering; just clean, scalable systems.
 
----
+Performance Obsession: I fix memory leaks, optimize rendering, and make UIs lightning-fast.
 
-### ✍️ Latest Articles & Content
-*Check out my blog at [omar-portfolio-gold.vercel.app](https://omar-portfolio-gold.vercel.app)*
+Pixel-Perfect Execution: Bridging heavy business logic with sleek design (currently building interactive 3D digital vaults).
 
-- [ ] **How I Scaled Financial UIs for 1M+ Users**
-- [ ] **React Native Security: The Senior Developer's Guide**
-- [ ] **Building Archive 99: Tech & Business Mysteries**
+I'm not here just to write components; I'm here for high-impact contract work. Bring me your messiest architecture or most ambitious UI challenge, and let's get it shipped.
 
----
-
-### 🛠️ The Arsenal
-**Core:** TypeScript, React, Next.js, React Native, Redux
-**Tools:** Webpack, Vite, Cypress, Jest, Tailwind CSS
-**Niche:** AI Integration, Secure Auth, Real-time Data Viz
-
----
+Stack: React, Next.js, TypeScript, Three.js, React Native.
 
 ### 📬 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/omar-hussain-94608713a/) | [Portfolio](https://omar-portfolio-gold.vercel.app)
