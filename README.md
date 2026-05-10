@@ -1,19 +1,30 @@
-# ⚡ Omar Hussain (aka razz)
-### Senior Front-End Architect | Specializing in Fintech & AI Solutions
+# ⚡ Hi, I'm Omar (aka Razz)
+### Senior Front-End Engineer | Zero-BS UI Architecture
 
-I skip the corporate fluff. For 7+ years, I’ve rescued messy codebases, architected high-performance Next.js apps, and integrated complex 3D experiences (Three.js) for enterprise banks, airlines, and tech startups.
+I skip the fluff. I architect, build, and scale high-performance web applications. With 7+ years in the game, I’ve done everything from rescuing messy enterprise architectures (Airlines/Banking) to building pixel-perfect, interactive 3D experiences.
 
-What you get:
+<br/>
 
-Zero-BS Architecture: React, Next.js, TypeScript. No over-engineering; just clean, scalable systems.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=a3a3a6&icon_color=ffffff" alt="Omar's Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=a3a3a6" alt="Omar's Top Languages" />
+</div>
 
-Performance Obsession: I fix memory leaks, optimize rendering, and make UIs lightning-fast.
+<br/>
 
-Pixel-Perfect Execution: Bridging heavy business logic with sleek design (currently building interactive 3D digital vaults).
+### 🎯 What I Do
+- **Architecture over hype:** Building scalable, maintainable systems using React, Next.js, and TypeScript. No over-engineering.
+- **Performance obsessed:** Fixing memory leaks, optimizing renders, and ensuring lightning-fast UIs.
+- **Pixel-Perfect Execution:** Bridging heavy business logic with sleek, modern design.
 
-I'm not here just to write components; I'm here for high-impact contract work. Bring me your messiest architecture or most ambitious UI challenge, and let's get it shipped.
+### 🧊 Current Focus
+- 🛠️ Building **VAULT.X** — an interactive 3D digital vault and configurator using `Three.js` and `React`.
+- ⚡ Leveraging agentic workflows (Cursor, Figma MCP) for maximum execution speed and zero friction.
 
-Stack: React, Next.js, TypeScript, Three.js, React Native.
+### 💻 Core Stack
+`React` • `Next.js` • `TypeScript` • `Three.js` • `React Native` • `Tailwind`
 
-### 📬 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/omar-hussain-94608713a/) | [Portfolio](https://omar-portfolio-gold.vercel.app)
+### 📫 Let's Connect
+Got a messy codebase that needs rescuing, or a high-impact contract role? Let's get it shipped.
+- Email: omarh3795@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alhussain23/
