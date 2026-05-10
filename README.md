@@ -6,8 +6,8 @@ I skip the fluff. I architect, build, and scale high-performance web application
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=a3a3a6&icon_color=ffffff" alt="Omar's Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=a3a3a6" alt="Omar's Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarhussian&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=a3a3a6&icon_color=ffffff" alt="Omar's Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarhussian&layout=compact&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=a3a3a6" alt="Omar's Top Languages" />
 </div>
 
 <br/>
