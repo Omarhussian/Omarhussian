@@ -1,4 +1,4 @@
-# ⚡ Omar Hussain
+# ⚡ Omar Hussain aka razz
 ### Senior Front-End Architect | Specializing in Fintech & AI Solutions
 
 Building high-performance, secure, and scalable digital products for global brands.
