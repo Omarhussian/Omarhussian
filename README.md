@@ -26,5 +26,5 @@ I skip the fluff. I architect, build, and scale high-performance web application
 
 ### 📫 Let's Connect
 Got a messy codebase that needs rescuing, or a high-impact contract role? Let's get it shipped.
-- Email: [Your Email Here]
-- LinkedIn: [Your LinkedIn Link Here]
+- Email: omarh3795@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/alhussain23
