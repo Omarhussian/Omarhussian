@@ -3,14 +3,7 @@
 
 I skip the fluff. I architect, build, and scale high-performance web applications. With 7+ years in the game, I’ve done everything from rescuing messy enterprise architectures (Airlines/Banking) to building pixel-perfect, interactive 3D experiences.
 
-<br/>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Omarhussian&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=a3a3a6&icon_color=ffffff" alt="Omar's Stats" />
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Omarhussian&layout=compact&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=a3a3a6" alt="Omar's Top Languages" />
-</div>
-
-<br/>
 
 ### 🎯 What I Do
 - **Architecture over hype:** Building scalable, maintainable systems using React, Next.js, and TypeScript. No over-engineering.
