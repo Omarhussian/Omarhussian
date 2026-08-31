@@ -12,7 +12,6 @@ I skip the fluff. I architect, build, and scale high-performance web application
 
 ### 🧊 Current Focus
 - 🛠️ Building **VAULT.X** — an interactive 3D digital vault and configurator using `Three.js` and `React`.
-- ⚡ Leveraging agentic workflows (Cursor, Figma MCP) for maximum execution speed and zero friction.
 
 ### 💻 Core Stack
 `React` • `Next.js` • `TypeScript` • `Three.js` • `React Native` • `Tailwind`
