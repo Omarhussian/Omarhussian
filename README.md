@@ -1,5 +1,5 @@
 # ⚡ Hi, I'm Omar (aka Razz)
-### Senior Front-End Engineer | Zero-BS UI Architecture
+### Senior Software Engineer | Zero-BS UI Architecture
 
 I skip the fluff. I architect, build, and scale high-performance web applications. With 7+ years in the game, I’ve done everything from rescuing messy enterprise architectures (Airlines/Banking) to building pixel-perfect, interactive 3D experiences.
 
